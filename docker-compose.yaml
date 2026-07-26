@@ -1,0 +1,33 @@
+services:
+  
+  adminer:
+    container_name: IXADM
+    env_file:
+      - .env
+    image: adminer:latest
+    restart: unless-stopped
+    environment:
+      ADMINER_DEFAULT_SERVER: pgmachine
+    ports:
+      - 8080:8080
+    depends_on:
+      - pgmachine
+
+  pgmachine:
+    container_name: IXPG
+    image: postgres:16
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    ports:
+      - 5432:5432
+    volumes:
+      - pgvolume:/var/lib/postgresql/data
+
+volumes:
+  pgvolume:
+    name: IXVOL

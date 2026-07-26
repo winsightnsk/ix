@@ -1,0 +1,17 @@
+E:\infotex\ix.DataSource\bin\Debug\net8.0\ix.DataSource.deps.json
+E:\infotex\ix.DataSource\bin\Debug\net8.0\ix.DataSource.runtimeconfig.json
+E:\infotex\ix.DataSource\bin\Debug\net8.0\ix.DataSource.dll
+E:\infotex\ix.DataSource\bin\Debug\net8.0\ix.DataSource.pdb
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.csproj.AssemblyReference.cache
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.GeneratedMSBuildEditorConfig.editorconfig
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.AssemblyInfoInputs.cache
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.AssemblyInfo.cs
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.csproj.CoreCompileInputs.cache
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.dll
+E:\infotex\ix.DataSource\obj\Debug\net8.0\refint\ix.DataSource.dll
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.pdb
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataSource.genruntimeconfig.cache
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ref\ix.DataSource.dll
+E:\infotex\ix.DataSource\bin\Debug\net8.0\ix.Domain.dll
+E:\infotex\ix.DataSource\bin\Debug\net8.0\ix.Domain.pdb
+E:\infotex\ix.DataSource\obj\Debug\net8.0\ix.DataS.94D01098.Up2Date

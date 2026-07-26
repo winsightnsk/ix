@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ix.DataSource/ix.DataSource.csproj" />
+  <Project Path="ix.DI/ix.DI.csproj" />
+  <Project Path="ix.Domain/ix.Domain.csproj" />
+  <Project Path="ix.Web/ix.Web.csproj" />
+</Solution>

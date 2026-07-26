@@ -1,0 +1,11 @@
+E:\infotex\ix.DI\bin\Debug\net10.0\ix.DI.deps.json
+E:\infotex\ix.DI\bin\Debug\net10.0\ix.DI.dll
+E:\infotex\ix.DI\bin\Debug\net10.0\ix.DI.pdb
+E:\infotex\ix.DI\obj\Debug\net10.0\ix.DI.GeneratedMSBuildEditorConfig.editorconfig
+E:\infotex\ix.DI\obj\Debug\net10.0\ix.DI.AssemblyInfoInputs.cache
+E:\infotex\ix.DI\obj\Debug\net10.0\ix.DI.AssemblyInfo.cs
+E:\infotex\ix.DI\obj\Debug\net10.0\ix.DI.csproj.CoreCompileInputs.cache
+E:\infotex\ix.DI\obj\Debug\net10.0\ix.DI.dll
+E:\infotex\ix.DI\obj\Debug\net10.0\refint\ix.DI.dll
+E:\infotex\ix.DI\obj\Debug\net10.0\ix.DI.pdb
+E:\infotex\ix.DI\obj\Debug\net10.0\ref\ix.DI.dll

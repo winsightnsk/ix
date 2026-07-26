@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ix.Web.Controllers.PingController",
+    "Method": "PingPong",
+    "RelativePath": "api/Ping",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
