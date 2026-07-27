@@ -22,6 +22,8 @@ public partial class TimeScale(DateTime startedAt, int duration, double value)
         var match = _timeScaleRegex.Match(txt);
         if (!match.Success) return false;
 
+        var startedAtStr = match.Groups["startedAt"].Value;
+
         return true;
     }
 

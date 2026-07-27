@@ -1,4 +1,5 @@
 ﻿using ix.Domain.Abstractions;
+using ix.Domain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,13 @@ public class TimeScaleEngine(
 {
     public async Task SaveCSVAsync(string fileName, IEnumerable<string> lines)
     {
-        throw new NotImplementedException();
+        if (string.IsNullOrWhiteSpace(fileName))
+        {
+            throw new ArgumentException("Пустое имя файла");
+        }
+
+
     }
+
+    private static TimeScale? ParseTimeScale
 }
