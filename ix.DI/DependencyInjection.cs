@@ -1,6 +1,8 @@
 ﻿using ix.DataSource.Abstractions;
 using ix.DataSource.Context;
 using ix.DataSource.Mappers;
+using ix.DataSource.Repositories;
+using ix.Domain.Abstractions;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,6 +19,8 @@ public static class DependencyInjection
     public static IServiceCollection AddApplicationServices(this IServiceCollection services)
     {
         services.AddScoped<ITimeScaleMapper, TimeScaleMapper>();
+        services.AddScoped<IRepository, PostgresRepository>();
+        services.AddScoped<ITimeScaleEngine, ITimeScaleEngine>();
         return services;
     }
 
